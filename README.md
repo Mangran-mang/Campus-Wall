@@ -3,7 +3,10 @@
 面向高校的社区平台：板块讨论、二手交易、实时私信，举报内容由 AI 初审。
 后端全异步（FastAPI + SQLAlchemy 2.0 async + MySQL + Redis），前端 Vue 3 + ECharts。
 
-**在线地址**：[https://zcfe.online](https://zcfe.online)
+**演示站**：[https://zcfe.online](https://zcfe.online)
+
+> ⚠️ 演示站已迭代为**求职者互助平台**（公司评价、资料库），与本仓库这个校园社区版本在模块上已有差异。
+> 本仓库保留校园墙阶段的完整源码快照（二手交易、板块讨论、实时私信），用于展示当时的实现。
 
 ---
 
